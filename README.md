@@ -1,4 +1,4 @@
-# memento
+# Memento
 Software to create checkpoints and rollback for your data
 
 # What is Memento
